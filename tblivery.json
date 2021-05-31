@@ -55,5 +55,31 @@
 	"busName":"AKSANTE RABI",
 	"busType":"SRIKANDI",
 	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1620130062/skin_15147_brj1vk.png"
+},
+{
+	"busName":"ALSAYDE",
+	"busType":"SRIKANDI",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1622454245/skin_36481_j6zqie.png"
+},
+{
+	"busName":"IMAN PLUS",
+	"busType":"SRIKANDI",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1622454569/skin_11735_nt5zpu.png"
+},
+{
+	"busName":"NGORIKA",
+	"busType":"SRIKANDI",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1622454719/skin_11157_cb46gd.png"
+},
+{
+	"busName":"BUSI",
+	"busType":"SRIKANDI",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1622454822/skin_10863_yhrioc.jpg"
+},
+{
+	"busName":"BUSI",
+	"busType":"SRIKANDI",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1622454930/skin_10937_imlk9p.png"
 }
+	
 ]
