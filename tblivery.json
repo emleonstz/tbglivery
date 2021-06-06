@@ -191,9 +191,14 @@
 	"busType":"SRIKANDI",
 	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623018283/skin_89671_tqmapg.png"
 },
-	{
+{
 	"busName":"Chuma",
 	"busType":"Kibamia",
 	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623018283/skin_89671_tqmapg.png"
+},
+{
+	"busName":"RABI",
+	"busType":"Ajura",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623018616/skin_72244_rz1y5m.png"
 }
 ]
