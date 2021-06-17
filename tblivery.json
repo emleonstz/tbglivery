@@ -200,5 +200,45 @@
 	"busName":"RABI",
 	"busType":"Ajura",
 	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623018616/skin_72244_rz1y5m.png"
+},
+{
+	"busName":"fikoshi",
+	"busType":"Ajura",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906129/skin_19768_tqvrhv.png"
+},
+{
+	"busName":"Jerusalem",
+	"busType":"Ajura",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906541/skin_43493_dlzjkh.png"
+},
+{
+	"busName":"Hood",
+	"busType":"Ajura",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906637/skin_65916_fhmtro.png"
+},
+{
+	"busName":"NBS",
+	"busType":"Ajura",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906727/skin_83355_cbaxtg.png"
+},
+{
+	"busName":"extra luxury coach",
+	"busType":"Ajura",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906836/skin_84263_wnehyx.png"
+},
+{
+	"busName":"Tracious",
+	"busType":"Ajura",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906927/skin_91431_v9elfs.png"
+},
+{
+	"busName":"New force",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623907030/skin_7354_eawpm0.png"
+},
+{
+	"busName":"Bus car",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623907169/skin_86027_hoviih.png"
 }
 ]
