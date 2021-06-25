@@ -240,5 +240,80 @@
 	"busName":"Bus car",
 	"busType":"kibamia",
 	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623907169/skin_86027_hoviih.png"
+},
+{
+	"busName":"NGORIKA",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624648716/skin_11157_myk9cv.png"
+},
+{
+	"busName":"NJOMBE EXP",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649053/skin_473_txbzo1.png"
+},
+{
+	"busName":"GOLDEN DEER DPK",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649134/skin_1085_ozdzhx.png"
+},
+{
+	"busName":"SUPER FEO",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649358/skin_16631_jhofek.png"
+},
+{
+	"busName":"SAFARI NJEMA",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649450/skin_19691_obekur.png"
+},
+{
+	"busName":"FIKOSHI",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649532/skin_19768_tr5njp.png"
+},
+{
+	"busName":"SADJA",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649615/skin_25597_fesfnx.png"
+},
+{
+	"busName":"TAWAKAL",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649689/skin_58263_irwltw.png"
+},
+{
+	"busName":"JM",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649777/skin_60403_xbzexr.png"
+},
+{
+	"busName":"HOOD",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649833/skin_65916_cacsrh.png"
+},
+{
+	"busName":"HOOD",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649833/skin_65916_cacsrh.png"
+},
+{
+	"busName":"NBS",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649930/skin_83355_o6qpl7.png"
+},
+{
+	"busName":"MARANGU COACH",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624650074/skin_89280_dko9zv.png"
+},
+{
+	"busName":"MARANGU COACH",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624650074/skin_89280_dko9zv.png"
+},
+{
+	"busName":"TRACIOUS",
+	"busType":"kibamia",
+	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624650164/skin_91431_uxvkbe.png"
 }
 ]
