@@ -1,4 +1,201 @@
 [
+	{
+  "busName":"SUPER FEO EXPRESS",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627031450/samples/super_feo_gold_dpisnh.png"
+  },
+  
+  {
+  "busName":"ngasere express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627031306/samples/PicsArt_07-13-10.44.12_fp5skl.png"
+  },
+  
+  {
+  "busName":"sauli",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035208/samples/sauli-1_purjqs.png"
+  },
+  
+  {
+  "busName":"Golden deer",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035236/samples/dpk-1_aqcfoe.png"
+  },
+  
+  {
+  "busName":"new force",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035258/samples/lnewforce2_zv5lpq.png"
+  },
+  
+  {
+  "busName":"selious express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035280/samples/selious_exp_gmwn6r.png"
+  },
+  
+  {
+  "busName":"shabiby",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035363/samples/lshabiby2_1_lkhbs7.png"
+  },
+  
+  {
+  "busName":"dar lux",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036715/samples/dar_lux_ambg9f.png"
+  },
+  
+  {
+  "busName":"tanzanite",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037154/samples/tanzanite_iewiif.png"
+  },
+  
+  {
+  "busName":"frester jet",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036737/samples/frester_jet_voiplm.png"
+  },
+  
+  {
+  "busName":"dar express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036995/samples/dar_express_vzio8m.png"
+  },
+  
+  {
+  "busName":"super sami",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036760/samples/super_sami_djo5i2.png"
+  },
+  
+  {
+  "busName":"zuberi",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036890/samples/zuberi_qirl1j.png"
+  },
+  
+  {
+  "busName":"ally's star",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036801/samples/chungwa_bhy6yv.png"
+  },
+  
+  {
+  "busName":"super feo mbinga",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036679/samples/Mbinga-1_j9oxd3.png"
+  },
+  
+  {
+  "busName":"njombe express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036696/samples/lnjombeexpress2-1_sfokdu.png"
+  },
+  
+  {
+  "busName":"tavavil",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036779/samples/tavavili_wmi8c8.png"
+  },
+  
+  {
+  "busName":"jmc express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036847/samples/jmc_express_zpuo3d.png"
+  },
+  
+  {
+  "busName":"extra luxury",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036823/samples/extra_luxury_h7cvwo.png"
+  },
+  
+  {
+  "busName":"galaxy express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037108/samples/galaxy_express_vfhz02.png"
+  },
+  
+  {
+  "busName":"allys",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037064/samples/allys_bus_wju8tc.png"
+  },
+  
+  {
+  "busName":"phoenix",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037083/samples/phoenix_tkwibo.png"
+  },
+  
+  {
+  "busName":"premier line exp",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037132/samples/premier_exp_mickiu.png"
+  },
+  
+  {
+  "busName":"isamilo express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036909/samples/isamilo_exp_v129x3.png"
+  },
+  
+  {
+  "busName":"kidinilo express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037180/samples/kidinilo_j0idq6.png"
+  },
+  
+  {
+  "busName":"arusha express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037201/samples/arusha_express_trvrng.png"
+  },
+  
+  {
+  "busName":"machame",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037230/samples/machame_oosevd.png"
+  },
+  
+  {
+  "busName":"fikoshi express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037042/samples/fikoshi_jq42ye.png"
+  },
+  
+  {
+  "busName":"ABC upper class",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036972/samples/labc2_yxrwhf.png"
+  },
+  
+  {
+  "busName":"classic",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036953/samples/Classic_100k_vov1kb.png"
+  },
+  
+  {
+  "busName":"kisbo safari",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037018/samples/kisbo_am7e28.png"
+  },
+  
+  {
+  "busName":"happy nation",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036929/samples/lhappynation2_1_slmwqt.png"
+  },
+  
+  {
+  "busName":"Tungi's",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036870/samples/tungizi_npuelo.png"
+  },
 {
 	"busName":"ISAMILO",
 	"busType":"Srikandi SHD",
@@ -420,203 +617,5 @@
 	"busName":"MBONDO STAR",
 	"busType":"kibamia",
 	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230983/skin_20066_fuejco.png"
-},
-	//eugy
-{
-  "busName":"SUPER FEO EXPRESS",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627031450/samples/super_feo_gold_dpisnh.png"
-  },
-  
-  {
-  "busName":"ngasere express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627031306/samples/PicsArt_07-13-10.44.12_fp5skl.png"
-  },
-  
-  {
-  "busName":"sauli",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035208/samples/sauli-1_purjqs.png"
-  },
-  
-  {
-  "busName":"Golden deer",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035236/samples/dpk-1_aqcfoe.png"
-  },
-  
-  {
-  "busName":"new force",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035258/samples/lnewforce2_zv5lpq.png"
-  },
-  
-  {
-  "busName":"selious express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035280/samples/selious_exp_gmwn6r.png"
-  },
-  
-  {
-  "busName":"shabiby",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627035363/samples/lshabiby2_1_lkhbs7.png"
-  },
-  
-  {
-  "busName":"dar lux",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036715/samples/dar_lux_ambg9f.png"
-  },
-  
-  {
-  "busName":"tanzanite",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037154/samples/tanzanite_iewiif.png"
-  },
-  
-  {
-  "busName":"frester jet",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036737/samples/frester_jet_voiplm.png"
-  },
-  
-  {
-  "busName":"dar express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036995/samples/dar_express_vzio8m.png"
-  },
-  
-  {
-  "busName":"super sami",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036760/samples/super_sami_djo5i2.png"
-  },
-  
-  {
-  "busName":"zuberi",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036890/samples/zuberi_qirl1j.png"
-  },
-  
-  {
-  "busName":"ally's star",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036801/samples/chungwa_bhy6yv.png"
-  },
-  
-  {
-  "busName":"super feo mbinga",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036679/samples/Mbinga-1_j9oxd3.png"
-  },
-  
-  {
-  "busName":"njombe express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036696/samples/lnjombeexpress2-1_sfokdu.png"
-  },
-  
-  {
-  "busName":"tavavil",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036779/samples/tavavili_wmi8c8.png"
-  },
-  
-  {
-  "busName":"jmc express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036847/samples/jmc_express_zpuo3d.png"
-  },
-  
-  {
-  "busName":"extra luxury",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036823/samples/extra_luxury_h7cvwo.png"
-  },
-  
-  {
-  "busName":"galaxy express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037108/samples/galaxy_express_vfhz02.png"
-  },
-  
-  {
-  "busName":"allys",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037064/samples/allys_bus_wju8tc.png"
-  },
-  
-  {
-  "busName":"phoenix",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037083/samples/phoenix_tkwibo.png"
-  },
-  
-  {
-  "busName":"premier line exp",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037132/samples/premier_exp_mickiu.png"
-  },
-  
-  {
-  "busName":"isamilo express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036909/samples/isamilo_exp_v129x3.png"
-  },
-  
-  {
-  "busName":"kidinilo express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037180/samples/kidinilo_j0idq6.png"
-  },
-  
-  {
-  "busName":"arusha express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037201/samples/arusha_express_trvrng.png"
-  },
-  
-  {
-  "busName":"machame",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037230/samples/machame_oosevd.png"
-  },
-  
-  {
-  "busName":"fikoshi express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037042/samples/fikoshi_jq42ye.png"
-  },
-  
-  {
-  "busName":"ABC upper class",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036972/samples/labc2_yxrwhf.png"
-  },
-  
-  {
-  "busName":"classic",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036953/samples/Classic_100k_vov1kb.png"
-  },
-  
-  {
-  "busName":"kisbo safari",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037018/samples/kisbo_am7e28.png"
-  },
-  
-  {
-  "busName":"happy nation",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036929/samples/lhappynation2_1_slmwqt.png"
-  },
-  
-  {
-  "busName":"Tungi's",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036870/samples/tungizi_npuelo.png"
-  }
+}
 ]
