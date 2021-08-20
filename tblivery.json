@@ -4,6 +4,11 @@
   "busType":"KIBAMIA CHA KWANZA",
   "url":"https://res.cloudinary.com/welyas/image/upload/v1627031450/samples/super_feo_gold_dpisnh.png"
   },
+	{
+  "busName":"Scannavia express",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://drive.google.com/uc?export=download&id=1PlJBufDcZZ_2otmCRKCc68aJ4pFxoG_K"
+  },
   
   {
   "busName":"ngasere express",
@@ -15,6 +20,11 @@
   "busName":"sauli",
   "busType":"KIBAMIA CHA KWANZA",
   "url":"https://res.cloudinary.com/welyas/image/upload/v1627035208/samples/sauli-1_purjqs.png"
+  },
+	 {
+  "busName":"Man city",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://drive.google.com/uc?export=download&id=1PqF7eNVlKaX1YbcgVGwrKuoG7NZoCFgS"
   },
   
   {
@@ -58,7 +68,11 @@
   "busType":"KIBAMIA CHA KWANZA",
   "url":"https://res.cloudinary.com/welyas/image/upload/v1627036737/samples/frester_jet_voiplm.png"
   },
-  
+  {
+  "busName":"vrl",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://drive.google.com/uc?export=download&id=1_81GhXK9WjsPxdfYuAd4-zUnlnp8GSZw"
+  },
   {
   "busName":"dar express",
   "busType":"KIBAMIA CHA KWANZA",
@@ -256,7 +270,7 @@
 {
 	"busName":"AKSANTE RABI",
 	"busType":"SRIKANDI",
-	"url":"https://drive.google.com/uc?export=download&id=1wLZlaPhR2oimJELmAnM1UaGdgWxW-6Av"
+	"url":"https://drive.google.com/uc?export=download&id=1MSxs0ObMB61xZON5HCS9CmLc0EfAwudr"
 },
 {
 	"busName":"ALSAYDE",
@@ -336,7 +350,7 @@
 {
 	"busName":"Sadja",
 	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623015210/skin_25597_usfjat.png"
+	"url":"https://drive.google.com/uc?export=download&id=1wVWcIs0RBRo9OaSdL7oeTrdbp6_q18RA"
 },
 {
 	"busName":"Mash POa",
@@ -361,7 +375,7 @@
 {
 	"busName":"Safari njema",
 	"busType":"Kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623017607/skin_19691_j3wuyu.png"
+	"url":"https://drive.google.com/uc?export=download&id=1c6OPDcMupoDXc1g6LsUxCcMUGBiJJ9aQ"
 },
 {
 	"busName":"Chuma la marasi",
@@ -376,12 +390,12 @@
 {
 	"busName":"Buti Lazungu",
 	"busType":"8.1",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623017968/skin_22937_fxa1fp.png"
+	"url":"https://drive.google.com/uc?export=download&id=17Mszbar0nMsVViEHwpjrSWtoDL8X9DO5"
 },
 {
 	"busName":"Color Star",
 	"busType":"8.1",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623018067/skin_21335_qj4yud.png"
+	"url":"https://drive.google.com/uc?export=download&id=1RX3t4Ww1PR_pIhQrYt15xgeAta4hFENe"
 },
 {
 	"busName":"Mwendokasi",
@@ -401,12 +415,12 @@
 {
 	"busName":"RABI",
 	"busType":"Ajura",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623018616/skin_72244_rz1y5m.png"
+	"url":"https://drive.google.com/uc?export=download&id=1MSxs0ObMB61xZON5HCS9CmLc0EfAwudrg"
 },
 {
 	"busName":"fikoshi",
 	"busType":"Ajura",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906129/skin_19768_tqvrhv.png"
+	"url":"https://drive.google.com/uc?export=download&id=1iZzH1Nh6ShNLf3-DrQMLCmGt0HGCfFmr"
 },
 {
 	"busName":"Jerusalem",
@@ -451,7 +465,7 @@
 {
 	"busName":"NJOMBE EXP",
 	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649053/skin_473_txbzo1.png"
+	"url":"https://drive.google.com/uc?export=download&id=189dC-E-7W-3kkvsZKsVIcmi3bd_EC_AD"
 },
 {
 	"busName":"GOLDEN DEER DPK",
@@ -471,12 +485,12 @@
 {
 	"busName":"FIKOSHI",
 	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649532/skin_19768_tr5njp.png"
+	"url":"https://drive.google.com/uc?export=download&id=1iZzH1Nh6ShNLf3-DrQMLCmGt0HGCfFmr"
 },
 {
 	"busName":"SADJA",
 	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649615/skin_25597_fesfnx.png"
+	"url":"https://drive.google.com/uc?export=download&id=1wVWcIs0RBRo9OaSdL7oeTrdbp6_q18RA"
 },
 {
 	"busName":"TAWAKAL",
@@ -612,6 +626,11 @@
 	"busName":"Tahmed",
 	"busType":"kibamia",
 	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230983/skin_27183_rikfmi.png"
+},
+	{
+	"busName":"ngasere",
+	"busType":"kibamia",
+	"url":"https://drive.google.com/uc?export=download&id=1oHb9ef_T5Gae84zHr_w7QJXyXSJjAkg7"
 },
 {
 	"busName":"Galilaya",
