@@ -15,6 +15,11 @@
   "busType":"KIBAMIA CHA KWANZA",
   "url":"https://res.cloudinary.com/welyas/image/upload/v1627031306/samples/PicsArt_07-13-10.44.12_fp5skl.png"
   },
+	{
+  "busName":"ice cream",
+  "busType":"KIBAMIA CHA KWANZA",
+  "url":"https://drive.google.com/uc?export=download&id=14Xu1YU5WgAj7z3LiAoxsfruIaBtUt_UP"
+  },
   
   {
   "busName":"sauli",
@@ -81,7 +86,7 @@
   {
   "busName":"dar express",
   "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036995/samples/dar_express_vzio8m.png"
+  "url":"https://drive.google.com/uc?export=download&id=1NNj9_g9T93zjhHBy3yJXIGDzJHMuIbu_"
   },
   
   {
@@ -285,7 +290,7 @@
 {
 	"busName":"ALSAYDE",
 	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1622454245/skin_36481_j6zqie.png"
+	"url":"https://drive.google.com/uc?export=download&id=19NVAJwIyYfG-JKlU1693axIJVZO1-slz"
 },
 {
 	"busName":"IMAN PLUS",
@@ -335,7 +340,7 @@
 {
 	"busName":"NEW FORCE",
 	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623014849/skin_96672_puqtbh.png"
+	"url":"https://drive.google.com/uc?export=download&id=1EP3CIF__ZxWL1RiaKO-KTs1PB5h__ouo"
 },
 {
 	"busName":"DAR EXPRESS",
@@ -422,6 +427,11 @@
 	"busType":"SRIKANDI",
 	"url":"https://drive.google.com/uc?export=download&id=11ecXJZZ30iEh2yAeFsMR0pQR6-9aab-p"
 },
+	{
+	"busName":"Sharifu royal",
+	"busType":"SRIKANDI",
+	"url":"https://drive.google.com/uc?export=download&id=1S1NGAkn-1RKJdBzmSiTOybObGTM7rqTK"
+},
 {
 	"busName":"Mtei",
 	"busType":"Kibamia",
@@ -450,27 +460,27 @@
 {
 	"busName":"NBS",
 	"busType":"Ajura",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906727/skin_83355_cbaxtg.png"
+	"url":"https://drive.google.com/uc?export=download&id=1qyvnDJZyOwiPPIn9zxnmbngqP0ZdNgoi"
 },
 {
 	"busName":"extra luxury coach",
 	"busType":"Ajura",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906836/skin_84263_wnehyx.png"
+	"url":"https://drive.google.com/uc?export=download&id=1CB3Wo1uem9fgM7QJpwP9dUkOEOsf_j4t"
 },
 {
 	"busName":"Tracious",
 	"busType":"Ajura",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623906927/skin_91431_v9elfs.png"
+	"url":"https://drive.google.com/uc?export=download&id=1n1ZftOaFCj4D1DQYt_RPeXBRrm-LH9uU"
 },
 {
 	"busName":"New force",
 	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623907030/skin_7354_eawpm0.png"
+	"url":"https://drive.google.com/uc?export=download&id=1EP3CIF__ZxWL1RiaKO-KTs1PB5h__ouo"
 },
 {
 	"busName":"Bus car",
 	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623907169/skin_86027_hoviih.png"
+	"url":"https://drive.google.com/uc?export=download&id=1ZKF9rlhTC5arG3wtx_SbJLWJMoPLhaHk"
 },
 {
 	"busName":"NGORIKA",
@@ -530,7 +540,7 @@
 {
 	"busName":"NBS",
 	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649930/skin_83355_o6qpl7.png"
+	"url":"https://drive.google.com/uc?export=download&id=1qyvnDJZyOwiPPIn9zxnmbngqP0ZdNgoi"
 },
 {
 	"busName":"MARANGU COACH",
@@ -635,7 +645,7 @@
 {
 	"busName":"New force",
 	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230986/skin_53479_nppc46.png"
+	"url":"https://drive.google.com/uc?export=download&id=1EP3CIF__ZxWL1RiaKO-KTs1PB5h__ouo"
 },
 {
 	"busName":"Emergance",
