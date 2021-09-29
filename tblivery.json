@@ -189,42 +189,11 @@
   "busType":"KIBAMIA CHA KWANZA",
   "url":"https://drive.google.com/uc?export=download&id=1Z5dYcW2uWhrn_cvyiVTu6WOEA7sy9qEv"
   },
-  
   {
-  "busName":"fikoshi express",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037042/samples/fikoshi_jq42ye.png"
-  },
-	{
   "busName":"nkya express",
   "busType":"KIBAMIA CHA KWANZA",
   "url":"https://drive.google.com/uc?export=download&id=1NrfQxzrLGIZt_SzAbAWxBpH9sLNPXKwP"
-  },
-  
-  {
-  "busName":"ABC upper class",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036972/samples/labc2_yxrwhf.png"
-  },
-  
-  {
-  "busName":"classic",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036953/samples/Classic_100k_vov1kb.png"
-  },
-  
-  {
-  "busName":"kisbo safari",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627037018/samples/kisbo_am7e28.png"
-  },
-  
-  {
-  "busName":"happy nation",
-  "busType":"KIBAMIA CHA KWANZA",
-  "url":"https://res.cloudinary.com/welyas/image/upload/v1627036929/samples/lhappynation2_1_slmwqt.png"
-  },
-  
+  },  
   {
   "busName":"Tungi's",
   "busType":"KIBAMIA CHA KWANZA",
@@ -234,11 +203,6 @@
 	"busName":"ISAMILO",
 	"busType":"Srikandi SHD",
 	"url":"https://drive.google.com/uc?export=download&id=1883e-RPyB2Umze2anUgrthp1ym9TdCya"
-},
-{
-	"busName":"NGANGA",
-	"busType":"Srikandi SHD",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1611705415/89536_f2upe3.png"
 },
 
 {
@@ -251,24 +215,6 @@
 	"busName":"ALY'S STAR",
 	"busType":"SRIKANDI SHD",
 	"url":"https://drive.google.com/uc?export=download&id=1J8JCA_AGBhtGpRFVpXt2bKON1KMbTfKz"
-},
-
-{
-	"busName":"NYEHUNGE COACH",
-	"busType":"SRIKANDI SHD",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1611706055/skin_11349_ttntoc.png"
-},
-
-{
-	"busName":"TUNGISI",
-	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1611705902/skin_11244_rpxix2.png"
-},
-	
-{
-	"busName":"KISBO SAFARIS",
-	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1611706179/skin_10749_mcfrxh.png"
 },
 	
 {
@@ -301,11 +247,6 @@
 	"busName":"IMAN PLUS",
 	"busType":"SRIKANDI",
 	"url":"hhttps://drive.google.com/uc?export=download&id=16g2pKNUN7YZ0cYBkrScS9skS8astgR8A"
-},
-{
-	"busName":"NGORIKA",
-	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1622454719/skin_11157_cb46gd.png"
 },
 {
 	"busName":"king mgeni",
@@ -347,16 +288,7 @@
 	"busType":"SRIKANDI",
 	"url":"https://drive.google.com/uc?export=download&id=1EP3CIF__ZxWL1RiaKO-KTs1PB5h__ouo"
 },
-{
-	"busName":"DAR EXPRESS",
-	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623014940/skin_73732_hy40or.png"
-},
-{
-	"busName":"KS LUXURY",
-	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623014940/skin_73732_hy40or.png"
-},
+
 {
 	"busName":"SELUOS EXPRESS",
 	"busType":"SRIKANDI",
@@ -381,16 +313,6 @@
 	"busName":"Mash POa",
 	"busType":"SRIKANDI",
 	"url":"https://drive.google.com/uc?export=download&id=1JrTB-WevgqguRCcu3UqfIz5wcm81tXXF"
-},
-{
-	"busName":"Arusha express",
-	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623017189/skin_4963_uppphh.png"
-},
-{
-	"busName":"Tungis",
-	"busType":"SRIKANDI",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1623017390/skin_11244_iquihi.png"
 },
 {
 	"busName":"Sauli Mjeshi",
@@ -497,21 +419,7 @@
 	"busType":"kibamia",
 	"url":"https://drive.google.com/uc?export=download&id=189dC-E-7W-3kkvsZKsVIcmi3bd_EC_AD"
 },
-{
-	"busName":"GOLDEN DEER DPK",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649134/skin_1085_ozdzhx.png"
-},
-{
-	"busName":"SUPER FEO",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649358/skin_16631_jhofek.png"
-},
-{
-	"busName":"SAFARI NJEMA",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649450/skin_19691_obekur.png"
-},
+
 {
 	"busName":"FIKOSHI",
 	"busType":"kibamia",
@@ -532,71 +440,13 @@
 	"busType":"kibamia",
 	"url":"https://drive.google.com/uc?export=download&id=1jJSVJEw6v-qxdd8LpadAOvjUsiZT5eBJ"
 },
-{
-	"busName":"HOOD",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649833/skin_65916_cacsrh.png"
-},
-{
-	"busName":"HOOD",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624649833/skin_65916_cacsrh.png"
-},
+
 {
 	"busName":"NBS",
 	"busType":"kibamia",
 	"url":"https://drive.google.com/uc?export=download&id=1qyvnDJZyOwiPPIn9zxnmbngqP0ZdNgoi"
 },
-{
-	"busName":"MARANGU COACH",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624650074/skin_89280_dko9zv.png"
-},
-{
-	"busName":"MARANGU COACH",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624650074/skin_89280_dko9zv.png"
-},
-{
-	"busName":"TRACIOUS",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1624650164/skin_91431_uxvkbe.png"
-},
-{
-	"busName":"TUNGISI",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625231011/skin_87894_sfbmbi.png"
-},
-{
-	"busName":"TUNGISI",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625231011/skin_87894_sfbmbi.png"
-},
-{
-	"busName":"Saratoga",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625231009/skin_98412_ky60gh.png"
-},
-{
-	"busName":"Bombadia",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625231000/skin_98184_jwowwk.png"
-},
-{
-	"busName":"Extra luxury",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230994/skin_84263_jsrt9k.png"
-},
-{
-	"busName":"Lucky star",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230994/skin_97697_noeidd.jpg"
-},
-{
-	"busName":"Tungi lao",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230993/skin_96407_h0aqqh.png"
-},
+
 {
 	"busName":"Dar",
 	"busType":"kibamia",
@@ -643,38 +493,14 @@
 	"url":"https://drive.google.com/uc?export=download&id=1A2a5KJ4FXFoqN3ktz8e-oMFREVEee3sk"
 },
 {
-	"busName":"Bufaalo",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230986/skin_69590_y8hlir.png"
-},
-{
 	"busName":"New force",
 	"busType":"kibamia",
 	"url":"https://drive.google.com/uc?export=download&id=1EP3CIF__ZxWL1RiaKO-KTs1PB5h__ouo"
 },
-{
-	"busName":"Emergance",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230985/skin_72722_ays6pu.png"
-},
-{
-	"busName":"Tahmed",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230983/skin_27183_rikfmi.png"
-},
+
 	{
 	"busName":"ngasere",
 	"busType":"kibamia",
 	"url":"https://drive.google.com/uc?export=download&id=1oHb9ef_T5Gae84zHr_w7QJXyXSJjAkg7"
-},
-{
-	"busName":"Galilaya",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230983/skin_39895_zjddkj.png"
-},
-{
-	"busName":"MBONDO STAR",
-	"busType":"kibamia",
-	"url":"https://res.cloudinary.com/dpkzzfgyd/image/upload/v1625230983/skin_20066_fuejco.png"
 }
 ]
