@@ -5,16 +5,53 @@
   "url":"https://drive.google.com/uc?export=download&id=1pc-UfETbsuTtAKtsbQPrARozACNmHrQb"
   },
 {
+  "busName":"MATATU 24",
+  "busType":"1.8",
+  "url":"https://drive.google.com/uc?export=download&id=1h8p0_W_D-Hqfu1hl99i_cGD_xd8Yjx2z"
+},
+{
   "busName":"Jet Buss",
   "busType":"Skrikand",
   "url":"https://drive.google.com/uc?export=download&id=1EdfXw5KMkEmvLtKiQS61pXpsurMtsSnj"
   },
+{
+  "busName":"Kixx bus",
+  "busType":"Skrikand",
+  "url":"https://drive.google.com/uc?export=download&id=1L8rE17fot-VnhudljVi0yOfcB5yyMTiB"
+  },
 
 {
-  "busName":"NGANGA EXPRESS",
+  "busName":"Dexter",
   "busType":"1.8",
-  "url":"https://drive.google.com/uc?export=download&id=1Ibro8AKqbI-7tr6mbxSJ0rTy4jUP9wkC"
+  "url":"https://drive.google.com/uc?export=download&id=1r1Y2jytN43p64M8dhe_uKbgRPP2hzyr_"
 },
+{
+  "busName":"Franklin",
+  "busType":"1.8",
+  "url":"https://drive.google.com/uc?export=download&id=1S8m0mr-0jzo8R7ROWE3FuogHWLSza9FA"
+},
+{
+  "busName":"Candy",
+  "busType":"1.8",
+  "url":"https://drive.google.com/uc?export=download&id=1POp3kWz54ovqlhk0lp_Eij-yTHExRnBk"
+},
+{
+  "busName":"Akademiks",
+  "busType":"1.8",
+  "url":"https://drive.google.com/uc?export=download&id=1POp3kWz54ovqlhk0lp_Eij-yTHExRnBk"
+},
+
+{
+  "busName":"Hainishuti",
+  "busType":"1.8",
+  "url":"https://drive.google.com/uc?export=download&id=1POp3kWz54ovqlhk0lp_Eij-yTHExRnBk"
+},
+{
+  "busName":"Hainishuti",
+  "busType":"1.8",
+  "url":"https://drive.google.com/uc?export=download&id=1POp3kWz54ovqlhk0lp_Eij-yTHExRnBk"
+},
+
 {
   "busName":"ABOOD",
   "busType":"1.8",
