@@ -51,11 +51,6 @@
 },
 
 {
-  "busName":"TAKBIR",
-  "busType":"1.8",
-  "url":"https://drive.google.com/uc?export=download&id=1alsmCYFf0VlEjE311OXQw_W98vRkJGZW"
-},
-{
   "busName":"ABOOD",
   "busType":"1.8",
   "url":"https://drive.google.com/uc?export=download&id=1T8essfviPSoKgGlkifCYCObKp8gmnQcu"
@@ -121,22 +116,7 @@
   "busType":"Skrikand",
   "url":"https://drive.google.com/uc?export=download&id=1EdfXw5KMkEmvLtKiQS61pXpsurMtsSnj"
   },
-{
-  "busName":"Kixx bus",
-  "busType":"Skrikand",
-  "url":"https://drive.google.com/uc?export=download&id=1L8rE17fot-VnhudljVi0yOfcB5yyMTiB"
-  },
 
-{
-  "busName":"Dexter",
-  "busType":"1.8",
-  "url":"https://drive.google.com/uc?export=download&id=1r1Y2jytN43p64M8dhe_uKbgRPP2hzyr_"
-},
-{
-  "busName":"Franklin",
-  "busType":"1.8",
-  "url":"https://drive.google.com/uc?export=download&id=1S8m0mr-0jzo8R7ROWE3FuogHWLSza9FA"
-},
 {
   "busName":"Candy",
   "busType":"1.8",
